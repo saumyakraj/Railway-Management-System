@@ -32,8 +32,7 @@ To run unit tests run the following commands inside the "Code" directory:
 
 1.
 ``` bash
-g++ Booking.cpp Date.cpp Passenger.cpp BookingCategories.cpp Railways.cpp Gender.cpp BookingClasses.cpp Station.cpp Concession.cpp Exceptions.cpp 
-UnitTest.cpp
+g++ Booking.cpp Date.cpp Passenger.cpp BookingCategories.cpp Railways.cpp Gender.cpp BookingClasses.cpp Station.cpp Concession.cpp Exceptions.cpp UnitTest.cpp
 ```
 2. 
 ``` bash
@@ -43,7 +42,7 @@ To run application tests run the following command:
 
 1. 
 ``` bash
-g++ Booking.cpp Date.cpp Passenger.cpp BookingCategories.cpp Railways.cpp Gender.cpp BookingClasses.cpp Station.cpp Concession.cpp Exceptions.cpp               ApplicationTesting.cpp
+g++ Booking.cpp Date.cpp Passenger.cpp BookingCategories.cpp Railways.cpp Gender.cpp BookingClasses.cpp Station.cpp Concession.cpp Exceptions.cpp ApplicationTesting.cpp
 ```
 2. 
 ```bash
